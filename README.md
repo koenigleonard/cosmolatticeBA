@@ -1,1 +1,1 @@
-# cosmolatticeBA
+# Repository for my Bachelor Thesis
